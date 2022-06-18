@@ -1,8 +1,8 @@
 # Project-Images
 
-Projects Included:
+A small portfolio of some projects that I've created. All projects were independently coded or built by me, except for the tensile tester, which I created with a team of six other students during college.
 
-Sublight Settings - joystick configuration program for Sublight Dynamics
+Sublight Settings - 6DOF joystick configuration program
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Elaborinth - a 3D game engine designed around portal physics
   </tr>
 </table>
 
-Tensile tester - a school capstone project that I led, to mechanically test material strain curves up to 1100 lbs of force
+Tensile tester - a school capstone project that I led, built to automatically mechanically test material strain curves up to 1100 lbs of force
 
 <table>
   <tr>
@@ -29,10 +29,10 @@ Tensile tester - a school capstone project that I led, to mechanically test mate
   </tr>
 </table>
 
-Sudoku - a simple Sudoku game, with solver
+Sudoku - a simple Sudoku game, with an automatic solver
 
 <img src = "Sudoku.png" width = 350>
 
-Pofin - an autonomous robot that maps the locations of cylindrical obstacles
+Pofin - an autonomous robot that maps the locations of cylindrical obstacles (built as a college project)
 
 <img src = "Pofin Mapping Robot.jpg" width = 350>
