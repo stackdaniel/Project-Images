@@ -11,7 +11,7 @@ Sublight Settings - 6DOF joystick configuration program
   </tr>
 </table>
 
-Elaborinth - a 3D game engine designed around portal physics
+Elaborinth - an OpenGL 3D game engine designed around portal physics
 
 <table>
   <tr>
@@ -29,10 +29,10 @@ Tensile tester - a school capstone project that I led, built to automatically me
   </tr>
 </table>
 
-Sudoku - a simple Sudoku game, with an automatic solver
-
-<img src = "Sudoku.png" width = 350>
-
 Pofin - an autonomous robot that maps the locations of cylindrical obstacles (built as a college project)
 
 <img src = "Pofin Mapping Robot.jpg" width = 350>
+
+Sudoku - a simple Sudoku game, with an automatic solver
+
+<img src = "Sudoku.png" width = 350>
