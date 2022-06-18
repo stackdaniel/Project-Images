@@ -1,6 +1,6 @@
 # Project-Images
 
-A small portfolio of some projects that I've created. All projects were independently coded or built by me, except for the tensile tester, which I created with a team of six other students during college.
+A small image portfolio of some projects that I've created. All projects were independently coded or built by me, except for the tensile tester, which I created with a team of six other students during college.
 
 Sublight Settings - 6DOF joystick configuration program
 
