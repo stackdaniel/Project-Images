@@ -29,6 +29,10 @@ Tensile tester - a school capstone project that I led, built to automatically me
   </tr>
 </table>
 
+Solar System Simulator - a hobby project that simulated the orbits of the 90 largest celestial bodies in the solar system according to gravitation attraction. The simulator includes the sun, planets, moons, dwarf planets, asteroids, and comets.
+
+<img src = "Solar System EarthMoon.png" width = 350>
+
 Pofin - an autonomous robot that maps the locations of cylindrical obstacles (built as a college project)
 
 <img src = "Pofin Mapping Robot.jpg" width = 350>
